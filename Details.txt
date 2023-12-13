@@ -1,0 +1,20 @@
+background color - F5F5F5
+secondary color - 00BCD4
+input stoke and search btn -#222F36
+
+font family - Signika Negative
+	      Roboto
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Signika+Negative:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+
+Type a word to find images.
+Explore with a word...
+Visualize any word...
+
+WordVision
+Transforming words into visuals.
